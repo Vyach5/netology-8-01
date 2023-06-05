@@ -7,4 +7,4 @@ echo "Knock knock"
 #some comment #3
 #some comment #4
 #some comment #5
-echo "line main"
+echo "line conflict"
